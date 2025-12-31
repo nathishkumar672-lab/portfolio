@@ -1,37 +1,34 @@
 # Portfolio Website - Design Restoration Summary
 
-## ❄️ Snow Animation & Classic Layout Restored
+## 🌍 Globe Animation & Modern Layout Integration
 
-As requested, the website's background has been returned to the **original falling snow animation**, and the immersive 3D spatial navigation has been disabled to restore the previous user experience.
+The website's background has been updated with a **dynamic 3D Globe animation** using Vanta.js, providing an immersive and professional digital atmosphere.
 
-### 🔄 Key Restorations
+### 🔄 Key Features
 
-#### **1. Classic Snow & Cinematic 3D Render**
-- **Sleek Snow Physics**: Glowing snow particles with smooth vertical flow and horizontal sway.
-- **Cinematic Hardware Model**: A high-end procedural 3D model with:
-  - **Bloom & Glow**: Integrated UnrealBloom post-processing for a cinematic neon engine glow.
-  - **Reflexive Materials**: Clearcoat physical materials on the CPU die and heat spreaders for realistic "heavy" metal reflections.
-  - **Frosted PCB**: Transparent acrylic-style base board with complex gold capacitor detailing.
-  - **Dynamic Engine**: A pulsing torus "core" that serves as the visual engine of the piece.
-- **Interactive Parallax**: Weighted 3D movement that responds to mouse position with cinematic easing.
+#### **1. Interactive 3D Globe Background**
+- **Dynamic Globe**: A glowing wireframe globe that responds to mouse movements.
+- **Vibrant Palette**: A soft pink/violet accent (`0xfae6ff`) over a deep space background (`0x050505`).
+- **Interactive Parallax**: The globe sways and rotates based on user interaction, creating depth.
 
-#### **2. Standard Smooth Scrolling**
-- **Disabled 3D Spacing**: Sections no longer rotate or scale along the Z-axis during scroll. This restores the classic "clean stack" feel.
-- **Standard Reveal Animations**: Re-implemented the standard Y-axis fade and slide-up animations for sections as they enter the view.
-- **Perspective Reset**: Removed the 3D perspective from the body, returning the interface to a polished 2D design.
+#### **2. Modern Glassmorphism UI**
+- **Floating Navbar**: A sleek, blurred navigation bar that follows the user as they scroll.
+- **Bento Grid Works**: A modern asymmetric layout for showcasing projects with hover scaling and glass effects.
+- **Scroll Reveal**: Sections smoothly fade and slide into view for a polished experience.
 
-#### **3. Maintained Premium Assets**
-- **High-End Project Images**: We have kept the professional 3D-generated project card images (Portfolio, Resume, Contact) to ensure the design remains premium.
-- **Bento Grid Layout**: The modern, asymmetric layout for the projects section is preserved.
-- **Refined Styles**: The "Deep Space" color palette, glassmorphism, and magnetic buttons are still active, ensuring the site looks modern while being less distracting.
+#### **3. Advanced Functionality**
+- **Magnetic Buttons**: Interactive call-to-action buttons that "tug" towards the cursor.
+- **Validated Contact Form**: A professional form with real-time feedback and direct email integration.
+- **Responsive Architecture**: Fully optimized for all device sizes, ensuring a consistent premium look.
 
 ---
 
 ### 🚀 **Current Status**
 
-✅ **Visuals Simplified & Polished**
-- **Animation**: Falling Snow
-- **UI State**: Static Premium (Standard Scroll)
-- **Design System**: Deep Space / Glassmorphism
+✅ **Visuals Updated & Polished**
+- **Animation**: Vanta Globe
+- **UI State**: Premium Glassmorphism
+- **Design System**: Deep Space / Cyan & Indigo
 
-The website is now perfectly balanced between your favorite animation and a professional, modern layout.
+The website is now perfectly balanced between high-end digital visuals and a professional, modern layout.
+

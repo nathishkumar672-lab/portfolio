@@ -108,7 +108,7 @@ if (contactForm) {
     const data = Object.fromEntries(formData.entries());
 
     try {
-      const response = await fetch('https://formspree.io/f/xkonvwad', {
+      const response = await fetch('https://formspree.io/f/xojqnqzl', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
